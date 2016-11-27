@@ -29,7 +29,7 @@ body  {
 	            height: 100%;
 	            background-size: cover;
 	            background-repeat: no-repeat;
-	            background-image: url(/Users/veenarekhi/Bootstrap-Portfolio/Bootstrap-Portfolio/images/charlotte-skyline.png);
+	            background-image: url("../images/charlotte-skyline.png");
       }
 
 .btn,.navbar-default,
@@ -276,7 +276,7 @@ aside {
 	        height: 100%;
 	        background-size: cover;
 	        background-repeat: no-repeat;
-	        background-image: url(/Users/veenarekhi/Bootstrap-Portfolio/Bootstrap-Portfolio/images/cork-wallet.png);
+	        background-image: url("../images/cork-wallet.png");
       }
 
 
@@ -285,7 +285,7 @@ aside {
 	        height: 100%;
 	        background-size: cover;
 	        background-repeat: no-repeat;
-	        background-image: url(/Users/veenarekhi/Bootstrap-Portfolio/Bootstrap-Portfolio/images/contact.png);
+	        background-image: url("../images/contact.png");
       }
 
 
@@ -294,7 +294,7 @@ aside {
 	        height: 100%;
 	        background-size: cover;
 	        background-repeat: no-repeat;
-	        background-image: url(/Users/veenarekhi/Bootstrap-Portfolio/Bootstrap-Portfolio/images/connect.png);
+	        background-image: url("../images/connect.png");
       }
 
     			.section-heading { margin-top:0 }
